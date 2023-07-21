@@ -1,0 +1,1 @@
+{"/ recognized": {"*": "comment"}, "comment": {"*": "* recognized"}, "start": {"*": "* in start", "/": "/ recognized"}, "* recognized": {"/": "comment finished"}, "* in start": {"/": "error unmatched"}}
