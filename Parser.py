@@ -1,6 +1,3 @@
-# Amir Hosein Rahmati 99103922
-# Saba Shamekhi 99170489
-
 import json
 import anytree
 import scanner

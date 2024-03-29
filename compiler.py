@@ -1,6 +1,4 @@
-# Amir Hosein Rahmati 
-
-import scanner 
+import scanner
 import Parser
 
 

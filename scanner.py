@@ -1,7 +1,4 @@
-# Amir Hosein Rahmati 99103922 
-# Saba Shamekhi 99170489
-
-import DFA 
+import DFA
 
 
 class Scanner:
